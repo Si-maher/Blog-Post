@@ -11,6 +11,15 @@ body {
     margin-right: auto;
     width: 1140px;
 }
+.blog-post {
+    background-color: blue;
+}
+.other-posts {
+    background-color: red;
+}
+.author-box {
+    background-color: yellow;
+}
 
 h1,h2,h3 {
     color: rgba(151, 152, 155, 0.966);

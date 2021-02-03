@@ -13,9 +13,11 @@ body {
 }
 .blog-post {
     background-color: blue;
+    width: 75%;
 }
 .other-posts {
     background-color: red;
+    width: 25%;
 }
 .author-box {
     background-color: yellow;
